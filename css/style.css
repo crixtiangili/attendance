@@ -98,7 +98,6 @@ button:hover {
     }
 
     form input, select {
-        margin: unset;
         margin-left: 25%;
         margin-bottom: 80px;
         margin-top: 10px;
