@@ -15,7 +15,7 @@
 <div class="container">
     <h1 class="text1">Attendance</h1>
 
-    <h2 class="clock">vnennk</h2>
+    <h2 class="clock"></h2>
 
 
     <div class="form">
